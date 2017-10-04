@@ -7030,6 +7030,8 @@ body {
 #location {
   display: flex;
   justify-content: flex-end;
+  align-content: flex-start;
+  flex-wrap: nowrap;
 }
 #phone {
   display: flex;
