@@ -7026,3 +7026,16 @@ a.list-group-item-danger.active:focus {
 body {
   margin: 25px;
 }
+
+#location {
+  display: flex;
+  justify-content: flex-end;
+}
+#phone {
+  display: flex;
+  justify-content: flex-end;
+}
+#email {
+  display: flex;
+  justify-content: flex-end;
+}
